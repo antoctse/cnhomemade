@@ -1,0 +1,3 @@
+Tahapan pembuatan project :
+- mempelajari konsep git
+- mempelajari konsep frontend developer
