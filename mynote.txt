@@ -1,3 +1,5 @@
 Tahapan pembuatan project :
 - mempelajari konsep git
 - mempelajari konsep frontend developer
+- mencoba konsep git dari tutorial web
+- menerapkan di project
