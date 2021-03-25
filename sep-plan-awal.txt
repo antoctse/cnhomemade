@@ -6,3 +6,4 @@ Tahapan belajar frontend
   b. mencoba framework
 - membuat framework ci
  ci versi 2 
+ ci stabil
