@@ -2,5 +2,9 @@ Tahapan belajar frontend
 
 - memmpelajari javascript
   a. memilih framework
+  frame 2.3
+  frame 2.4
   b. mencoba framework
+  sukses
 - membuat laravel
+- jquery
