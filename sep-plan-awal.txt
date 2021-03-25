@@ -1,0 +1,4 @@
+Tahapan belajar frontend
+
+- memmpelajari javascript
+- membuat framework ci
