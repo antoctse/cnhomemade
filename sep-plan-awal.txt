@@ -5,5 +5,5 @@ Tahapan belajar frontend
       pilih js 1
   b. mencoba framework
 - membuat framework ci
- ci versi 2 
+ ci versi 2er 
  ci stabil
