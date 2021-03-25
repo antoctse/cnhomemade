@@ -1,4 +1,5 @@
 Tahapan belajar frontend
 
 - memmpelajari javascript
+  a. memilih framework
 - membuat framework ci
